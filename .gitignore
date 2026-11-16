@@ -1,3 +1,10 @@
-.venv/
-sales.db
+__pycache__/
+*.db
+*.log
 .DS_Store
+.venv/
+harry/
+cleaned_sales.csv
+rejected_sales.csv
+summary.csv
+sales_backup.csv
