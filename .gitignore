@@ -8,3 +8,5 @@ cleaned_sales.csv
 rejected_sales.csv
 summary.csv
 sales_backup.csv
+
+.env
